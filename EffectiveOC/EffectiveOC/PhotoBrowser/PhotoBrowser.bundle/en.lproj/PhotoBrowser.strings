@@ -1,0 +1,11 @@
+/* 
+  PhotoBrowser.strings
+  EffectiveOC
+
+  Created by Pan on 16/2/25.
+  Copyright © 2016年 Pan. All rights reserved.
+*/
+
+"Save" = "Save";
+"Saved to Album" = "Saved to Album";
+"Saved failed" = "Saved failed";
